@@ -5,7 +5,7 @@ board_build.partitions = huge_app.csv
 
 based on https://github.com/espressif/arduino-esp32/blob/master/libraries/BluetoothSerial/examples/SerialToSerialBTM/SerialToSerialBTM.ino
 
-Be sure taht your Barcodescanner can handle Bluetooth with seriel port profil (not HID mode)
+Be sure taht your Barcodescanner can handle Bluetooth with seriel port profile (not HID mode)
 
 i use NETUM NT-1228BC scanner
 */
