@@ -44,7 +44,6 @@ int tail = 0;  // Pointer to the next free element in the FIFO
 int count = 0;  // The number of elements in the FIFO
 
 String receivedMessage = "";
-String storedMessage = "";
 
 WiFiClient client;
 
